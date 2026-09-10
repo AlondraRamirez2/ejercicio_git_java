@@ -1,4 +1,4 @@
-# Ejercicio: Git y Java en un Dev Container
+# Ejercicio: Git y Java en un Dev Container "Nota: Esta práctica se realiza en un entorno aislado". 
 
 Este ejercicio practica los comandos básicos de Git dentro del contenedor de desarrollo de este repositorio. Completa las actividades en orden y marca cada casilla solamente después de comprobar el resultado.
 
@@ -110,8 +110,8 @@ git log --oneline -1
 **Actividad:** después del primer commit, cambia una línea del README, ejecuta `git diff`, prepara el cambio y usa `git commit --amend --no-edit`. Comprueba que el último commit contiene la modificación.
 
 - [x] Creé el primer commit con un mensaje descriptivo.
-- [ ] Revisé un cambio con `git diff` antes de prepararlo.
-- [ ] Incorporé el cambio al commit anterior con `git commit --amend`.
+- [x] Revisé un cambio con `git diff` antes de prepararlo.
+- [x] Incorporé el cambio al commit anterior con `git commit --amend`.
 
 ## 5. Crear una rama y combinarla con `merge`
 
